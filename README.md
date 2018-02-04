@@ -5,7 +5,7 @@ More information about me: [LinkedIn](https://www.linkedin.com/in/jiayuan-vivian
 
 
 
-### **Experience**
+### <p>**Experience**
 
 #### Independent Research, *Beck's Research Lab, University of Washington, Seattle, WA*
 
@@ -48,7 +48,7 @@ More information about me: [LinkedIn](https://www.linkedin.com/in/jiayuan-vivian
 
 
 
-### Other Coursework Projects
+### <p>Other Coursework Projects
 
 #### **Machine Learning**, *Department of Biostatistics,University of Washington*
 
@@ -59,3 +59,11 @@ More information about me: [LinkedIn](https://www.linkedin.com/in/jiayuan-vivian
 
 **Keywords:** Mathematical analysis /  Chemical Kinectic Model / Scipy / Cantera
 
+
+
+
+
+### <p>Miniprojects
+
+1. [Data Cleaning](https://github.com/JiayuanGuo/Data-Science-Portfolio/tree/master/Miniprojects/1.Data_Cleaning_AIrbnb_Listing): Use Python to clean Airbnb Listing Data (from csv file)
+2. [Web Crawling with BeautifulSoup](https://github.com/JiayuanGuo/Data-Science-Portfolio/tree/master/Miniprojects/2.Web_Crawling_Indeed_Jobs): Use Python BeautifulSoup to collect and clean job listing data from indeed.com
