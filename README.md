@@ -5,7 +5,7 @@ More information about me: [LinkedIn](https://www.linkedin.com/in/jiayuan-vivian
 
 
 
-### <p>**Experience**
+## <p>**Experience**
 
 #### Graduate Thesis Research, [*Beck's Research Lab*](http://faculty.washington.edu/dacb/), *University of Washington, Seattle, WA*
 
@@ -21,7 +21,7 @@ More information about me: [LinkedIn](https://www.linkedin.com/in/jiayuan-vivian
 
 **Learning Repository:** [Learning-Tableau](https://github.com/JiayuanGuo/Learning-Tableau) ; [Learning-Dash](https://github.com/JiayuanGuo/Learning-Dash)
 
-
+<p>------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### **[DIRECT Data Science Trainee](http://depts.washington.edu/uwdirect/)**, *Clean Energy Institute, University of Washington, Seattle, WA*
 
@@ -30,9 +30,9 @@ More information about me: [LinkedIn](https://www.linkedin.com/in/jiayuan-vivian
 
 **Keywords:** Data Mining / Python (pandas, matplotlib) / Random Forest / P-Value / GUI
 
+<p>
 
-
-### <p>Projects
+## <p>Projects
 
 * **Data Analysis**
   * [Data Cleaning_Airbnb_Listing](https://github.com/JiayuanGuo/Data-Science-Portfolio/tree/master/Miniprojects/1.Data_Cleaning_AIrbnb_Listing): Use Python to clean Airbnb Listing Data (from csv file)
@@ -42,7 +42,7 @@ More information about me: [LinkedIn](https://www.linkedin.com/in/jiayuan-vivian
 
   * [Web Crawling with BeautifulSoup](https://github.com/JiayuanGuo/Data-Science-Portfolio/tree/master/Miniprojects/2.Web_Crawling_Indeed_Jobs): Use **Python BeautifulSoup** to collect and clean job listing data from indeed.com
 
-  * Web Crawling with Scrapy
+  * [Web Crawling with Scrapy](https://github.com/JiayuanGuo/TrendKeeper): Use **Scrapy Framework** to collect news from Newswire, and generate trending report for a certain time period.
 
 * **Machine Learning**
 
@@ -53,3 +53,4 @@ More information about me: [LinkedIn](https://www.linkedin.com/in/jiayuan-vivian
 
   * [A Visualization Tool for Unsupervised Machine Learning Analysis on Genomics Data](https://github.com/BeckResearchLab/DashOmics): Built an interactive web application and visualized analysis results  [**Plot.ly - Dash**](https://plot.ly/products/dash/).
   * Airbnb Visualization Analysis by Tableau
+
